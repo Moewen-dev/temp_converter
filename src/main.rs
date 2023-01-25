@@ -4,7 +4,7 @@ fn main() {
     
     // main loop
     loop {
-        
+
         let mut user_input: String = String::new();
         let mut user_temp_input: String = String::new();
 
